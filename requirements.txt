@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+typing
+folium
+pickle
+glob
+os
+sys
